@@ -21,5 +21,5 @@ public class InvalidCharacterExeption extends Exception {
     public InvalidCharacterExeption(Throwable cause) {
         super(cause);
     }
-}
+
 }

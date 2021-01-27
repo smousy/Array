@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4494b3f3-c5bf-4d55-aa38-32196054cb26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/InvalidCharacterExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/firstTask/validation/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/creator/ArrayCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/creator/ArrayCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/entity/ArrayEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/entity/ArrayEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/reader/ArrayReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/reader/ArrayReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Calculation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Edit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Edit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Finding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Finding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/validator/Validator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/creator/ArrayCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/creator/ArrayCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/entity/ArrayEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/entity/ArrayEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/reader/ArrayReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/reader/ArrayReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Calculation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Edit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/service/Edit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Finding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/service/Finding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/service/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/validator/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/FileExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/FileExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/InvalidCharacterExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/InvalidCharacterExeption.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611137701427</updated>
       <workItem from="1611137705006" duration="8465000" />
-      <workItem from="1611420438106" duration="17321000" />
+      <workItem from="1611420438106" duration="17459000" />
     </task>
     <servers />
   </component>
