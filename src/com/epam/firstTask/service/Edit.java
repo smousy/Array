@@ -1,30 +1,31 @@
 package com.epam.firstTask.service;
 
 import com.epam.firstTask.entity.ArrayEntity;
+import com.epam.firstTask.exeption.ArrayActionExeption;
 
 public class Edit {
-    public ArrayEntity changePrimeASCIICodeToNull(ArrayEntity inputArray){
-        String[] array= inputArray.getArray();
-        for(int i=0; i<array.length; i++){
-            String element = inputArray.getElement(i);
-            char[] chars = element.toCharArray();
-            int sumStringElementCode=0;
-            for (char aChar : chars) {
-                sumStringElementCode += (int) aChar;
+    public ArrayEntity changePrimeElementToNull(ArrayEntity inputArray) throws ArrayActionExeption {
+        if(inputArray!=null){
+            for (int i = 0; i < inputArray.sizeArray(); i++) {
+                int element = inputArray.getElement(i);
+                if (primeCheck(element)) {
+                    inputArray.changeElement(i, 0);
+                }
             }
-            if(primeCheck(sumStringElementCode)){
-                array[i] = null;
-            }
+            // добавить лог
+            return inputArray;
+        }else{
+            // добавить лог
+            throw new ArrayActionExeption("Null array");
         }
-        inputArray.setArray(array);
-        return inputArray;
+
     }
 
-    private boolean primeCheck(int num){
+    private boolean primeCheck(int num) {
         int temp;
-        for(int i=2; i<num/2; i++){
-            temp=num%i;
-            if(temp==0){
+        for (int i = 2; i <= num / 2; i++) {
+            temp = num % i;
+            if (temp == 0) {
                 return false;
             }
         }

@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4494b3f3-c5bf-4d55-aa38-32196054cb26" name="Default Changelist" comment="" />
+    <list default="true" id="4494b3f3-c5bf-4d55-aa38-32196054cb26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/InvalidCharacterExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/epam/firstTask/validation/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/creator/ArrayCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/creator/ArrayCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/entity/ArrayEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/entity/ArrayEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/reader/ArrayReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/reader/ArrayReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Calculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Edit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Edit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Finding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Finding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/validator/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/creator/ArrayCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/creator/ArrayCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/entity/ArrayEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/entity/ArrayEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/reader/ArrayReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/reader/ArrayReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Calculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Edit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/service/Edit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Finding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/service/Finding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/firstTask/service/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/validator/Validator.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nKTIQtTOVg1Fh40eHFOPP0T4EE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,9 +48,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/epam/firstTask" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,6 +61,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.epam.firstTask.exeption" />
+      <recent name="com.epam.firstTask.reader" />
       <recent name="com.epam.firstTask.service" />
       <recent name="com.epam.firstTask.creator" />
       <recent name="com.epam.firstTask" />
@@ -69,6 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611137701427</updated>
       <workItem from="1611137705006" duration="8465000" />
+      <workItem from="1611420438106" duration="17321000" />
     </task>
     <servers />
   </component>
@@ -80,26 +111,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1178" y="124" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611139507223" />
-    <state width="946" height="295" key="GridCell.Tab.0.bottom" timestamp="1611147190780">
+    <state width="914" height="204" key="GridCell.Tab.0.bottom" timestamp="1611705651845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="946" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611147190780" />
-    <state width="946" height="295" key="GridCell.Tab.0.center" timestamp="1611147190780">
+    <state width="914" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611705651845" />
+    <state width="914" height="204" key="GridCell.Tab.0.center" timestamp="1611705651845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="946" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611147190780" />
-    <state width="946" height="295" key="GridCell.Tab.0.left" timestamp="1611147190780">
+    <state width="914" height="204" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611705651845" />
+    <state width="914" height="204" key="GridCell.Tab.0.left" timestamp="1611705651845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="946" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611147190780" />
-    <state width="946" height="295" key="GridCell.Tab.0.right" timestamp="1611147190780">
+    <state width="914" height="204" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611705651845" />
+    <state width="914" height="204" key="GridCell.Tab.0.right" timestamp="1611705651845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="946" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611147190780" />
-    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1611138804799">
+    <state width="914" height="204" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611705651845" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1611706072909">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1611138804799" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1611706072909" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
