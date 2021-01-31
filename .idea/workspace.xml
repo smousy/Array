@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4494b3f3-c5bf-4d55-aa38-32196054cb26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/firstTask/service/FindingStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/firstTask/service/SortStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/epam/firstTask/service/EditTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/epam/firstTask/service/FindingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/epam/firstTask/service/SortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/creator/ArrayCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/entity/ArrayEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/reader/ArrayReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/reader/Converter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Edit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Finding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/service/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/epam/firstTask/validation/Validator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/creator/ArrayCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/creator/ArrayCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/entity/ArrayEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/entity/ArrayEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/ArrayActionExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/exeption/ArrayActionExeption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/FileExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/exeption/FileExeption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/exeption/InvalidCharacterExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/exeption/InvalidCharacterExeption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/reader/ArrayReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/reader/ArrayReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/reader/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/reader/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Edit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/service/Edit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Finding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/service/Finding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/service/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/service/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/firstTask/validation/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/validation/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -280,12 +254,24 @@
       <workItem from="1611137705006" duration="8465000" />
       <workItem from="1611420438106" duration="19441000" />
       <workItem from="1612095779309" duration="3819000" />
-      <workItem from="1612100341193" duration="15569000" />
+      <workItem from="1612100341193" duration="15739000" />
     </task>
+    <task id="LOCAL-00001" summary="addTask2and3">
+      <created>1612137106335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612137106335</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="addTask2and3" />
+    <option name="LAST_COMMIT_MESSAGE" value="addTask2and3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1149" y="174" key="#SortTest.shakerSortTest" timestamp="1612132961666">
@@ -316,6 +302,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1178" y="124" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611139507223" />
+    <state x="968" y="138" key="CommitChangelistDialog2" timestamp="1612137105045">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="968" y="138" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1612137105045" />
     <state x="1195" y="188" key="FileChooserDialogImpl" timestamp="1612128158334">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
