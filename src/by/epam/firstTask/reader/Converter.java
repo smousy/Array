@@ -16,7 +16,7 @@ public class Converter {
         Validator validator = new Validator();
         for (String oneArray : arrays) {
             if (validator.checkString(oneArray)) {
-                String[] arrayString = oneArray.split(" "); //может быть сделать табы?
+                String[] arrayString = oneArray.split(" ");
                 for (String value : arrayString) {
                     Integer intValue = Integer.parseInt(value);
                     array.add(intValue);
@@ -26,7 +26,7 @@ public class Converter {
                 continue;
             }
         }
-        return array.stream().mapToInt(i -> i).toArray(); //разобраться что значит строка
+        return array.stream().mapToInt(i -> i).toArray();
     }
 
 }

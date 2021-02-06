@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4494b3f3-c5bf-4d55-aa38-32196054cb26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/entity/ArrayEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/entity/ArrayEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/reader/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/reader/Converter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +255,8 @@
       <workItem from="1611137705006" duration="8465000" />
       <workItem from="1611420438106" duration="19441000" />
       <workItem from="1612095779309" duration="3819000" />
-      <workItem from="1612100341193" duration="15739000" />
+      <workItem from="1612100341193" duration="16587000" />
+      <workItem from="1612164869432" duration="1694000" />
     </task>
     <task id="LOCAL-00001" summary="addTask2and3">
       <created>1612137106335</created>
@@ -330,10 +332,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="794" y="65" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1612128167796" />
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1612100353300">
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1612164914557">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612100353300" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612164914557" />
     <state x="244" y="203" width="694" height="834" key="dock-window-1" timestamp="1612133677357">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -342,10 +344,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="213" y="254" width="694" height="834" key="dock-window-2/0.0.1920.1080@0.0.1920.1080" timestamp="1612134935037" />
+    <state x="342" y="160" key="new project wizard" timestamp="1612520244031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="160" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1612520244031" />
     <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1612101215165">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1612101215165" />
+    <state x="1155" y="455" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1612164656426">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1155" y="455" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612164656426" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>

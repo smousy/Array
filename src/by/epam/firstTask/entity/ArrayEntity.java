@@ -15,7 +15,6 @@ public class ArrayEntity {
         this.array = array;
     }
 
-    //нужны ли здесь исключения?
     public int getElement(int index) throws InvalidCharacterExeption {
         if (index > array.length - 1 || index < 0) {
             throw new InvalidCharacterExeption("wrong index");
@@ -46,9 +45,7 @@ public class ArrayEntity {
         return string.toString();
     }
 
-    // разве так можно??
     public int hashCode() {
         return Arrays.hashCode(array);
-
     }
 }
