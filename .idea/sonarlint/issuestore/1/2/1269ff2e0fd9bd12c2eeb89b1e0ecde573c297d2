@@ -1,8 +1,0 @@
-
-‡
-java:S1319"qThe type of the "arrays" object should be an interface such as "List" rather than the implementation "ArrayList".(τά’
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·―¨ÿÿÿÿÿ
-{
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Η§Ά
-1
-java:S3626"Remove this redundant jump.(Ι©ƒ
