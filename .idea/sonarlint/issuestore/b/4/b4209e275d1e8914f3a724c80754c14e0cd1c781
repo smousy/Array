@@ -1,0 +1,13 @@
+
+`
+java:S2095$"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ
+M
+java:S2629*"7Use the built-in formatting to construct this argument.(äËÆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜·¯¨ÿÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çĞ€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚»Òşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©¡ ±üÿÿÿÿ
+W
+java:S3457*"AFormat specifiers should be used instead of string concatenation.(äËÆ
+\
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(¼Ç±²úÿÿÿÿ

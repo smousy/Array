@@ -1,0 +1,8 @@
+
+y
+java:S4165,"cRemove this useless assignment; "check" already holds the assigned value along all execution paths.(ëµÎà
+o
+java:S1192"TDefine a constant instead of duplicating this literal "Array cant be empty" 6 times.(ý±³¦øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËŸöžÿÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‘»¦…ùÿÿÿÿ
