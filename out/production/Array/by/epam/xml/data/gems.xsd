@@ -6,7 +6,7 @@
     <element name="gems">
         <complexType>
             <sequence>
-                <element name="gem" type="tns:Gem" minOccurs="5" maxOccurs="unbounded"/>
+                <element name="gem" type="tns:Gem" minOccurs="1" maxOccurs="unbounded"/>
             </sequence>
         </complexType>
     </element>

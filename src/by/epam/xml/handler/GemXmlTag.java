@@ -19,6 +19,7 @@ public enum GemXmlTag {
     GemXmlTag(String value) {
         this.value = value;
     }
+
     public String getValue() {
         return value;
     }

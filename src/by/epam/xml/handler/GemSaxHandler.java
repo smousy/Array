@@ -8,13 +8,15 @@ import org.apache.logging.log4j.Logger;
 import org.xml.sax.Attributes;
 
 import java.time.LocalDate;
+
 import org.xml.sax.helpers.DefaultHandler;
+
 import java.time.format.DateTimeFormatter;
 import java.util.EnumSet;
 import java.util.HashSet;
 import java.util.Set;
 
-public class GemSaxHandler extends DefaultHandler{
+public class GemSaxHandler extends DefaultHandler {
     private Set<Gem> gems;
     private Gem current;
     private ParameterGem currentParameter;

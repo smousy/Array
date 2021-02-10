@@ -1,6 +1,6 @@
 package by.epam.xml.entity;
 
-public class Gem{
+public class Gem {
     private String name;
     private String id;
     private String origin;
@@ -68,9 +68,8 @@ public class Gem{
         this.preciousness = preciousness;
     }
 
- //писать хэшкод и equals?
 
-    public String toString(){
+    public String toString() {
         final StringBuilder stringBuilder = new StringBuilder("Gem{");
         stringBuilder.append("\nname=").append(name);
         stringBuilder.append("\nid=").append(id);

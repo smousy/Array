@@ -1,9 +1,9 @@
 package by.epam.xml.entity;
 
 public class ParameterGem {
-   private String color;
-   private Integer transparency;
-   private Integer edges;
+    private String color;
+    private Integer transparency;
+    private Integer edges;
 
     public ParameterGem(String color, Integer transparency, Integer edges) {
         this.color = color;
@@ -28,7 +28,7 @@ public class ParameterGem {
     }
 
     public void setTransparency(String transparency) {
-        this.transparency = transparency;
+        this.transparency = Integer.parseInt(transparency);
     }
 
     public Integer getEdges() {
@@ -36,12 +36,11 @@ public class ParameterGem {
     }
 
     public void setEdges(String edges) {
-        this.edges = edges;
+        this.edges = Integer.parseInt(edges);
     }
 
-    //hesh and equals???
 
-    public String toString(){
+    public String toString() {
         final StringBuilder stringBuilder = new StringBuilder("Parameters{");
         stringBuilder.append("\nparameters=").append(color);
         stringBuilder.append("\nvalue=").append(transparency.toString());

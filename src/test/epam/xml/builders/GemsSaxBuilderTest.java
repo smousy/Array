@@ -1,8 +1,10 @@
-package by.epam.xml.builders;
+package test.epam.xml.builders;
 
+import by.epam.xml.builders.AbstractGemsBuilder;
 import by.epam.xml.entity.Gem;
 import by.epam.xml.exeption.ParseException;
 import by.epam.xml.handler.GemSaxHandler;
+import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.xml.sax.SAXException;
@@ -14,15 +16,13 @@ import javax.xml.parsers.SAXParserFactory;
 import java.io.IOException;
 import java.util.Set;
 
-import org.apache.logging.log4j.Level;
-
-public class GemsSaxBuilder extends AbstractGemsBuilder {
+public class GemsSaxBuilderTest extends AbstractGemsBuilder {
     public static final Logger logger = LogManager.getLogger();
     private Set<Gem> gems;
     private GemSaxHandler handler = new GemSaxHandler();
     private XMLReader reader;
 
-    public GemsSaxBuilder() {
+    public GemsSaxBuilderTest() {
         SAXParserFactory factory = SAXParserFactory.newInstance();
         try {
             SAXParser saxParser = factory.newSAXParser();
@@ -33,7 +33,7 @@ public class GemsSaxBuilder extends AbstractGemsBuilder {
         reader.setContentHandler(handler);
     }
 
-    public GemsSaxBuilder(Set<Gem> gems) {
+    public GemsSaxBuilderTest(Set<Gem> gems) {
         super(gems);
     }
 
