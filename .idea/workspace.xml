@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4494b3f3-c5bf-4d55-aa38-32196054cb26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/builders/AbstractGemsBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/builders/GemsDomBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/builders/GemsSaxBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/builders/GemsStaxBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/data/gems.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/entity/Gem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/entity/ParameterGem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/exeption/ParseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/factory/GemBuilderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/handler/GemSaxHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/handler/GemXmlTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/log/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/validator/XMLValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/entity/ArrayEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/entity/ArrayEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/reader/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/firstTask/reader/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/creator/ArrayCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/entity/ArrayEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/exeption/ArrayActionExeption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/exeption/FileExeption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/exeption/InvalidCharacterExeption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/reader/ArrayReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/reader/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/service/Edit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/service/EditStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/service/Finding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/service/FindingStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/service/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/service/SortStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/firstTask/validation/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/test/epam/firstTask/service/EditTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/test/epam/firstTask/service/FindingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/test/epam/firstTask/service/SortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/creator/ArrayCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/entity/ArrayEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/exeption/ArrayActionExeption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/exeption/FileExeption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/exeption/InvalidCharacterExeption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/reader/ArrayReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/reader/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/service/Edit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/service/Finding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/service/FindingStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/service/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/firstTask/validation/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/data/gems.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/epam/firstTask/service/EditTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/epam/firstTask/service/FindingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/epam/firstTask/service/SortTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +79,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/by/epam/xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,29 +92,59 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="test.epam.firstTask" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\Documents\GitHub\Array\src" />
-      <recent name="C:\Users\Lenovo\Documents\GitHub\Array" />
-      <recent name="C:\Users\Lenovo\Desktop\Array\src\com\epam\firstTask" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="by.epam.firstTask.service" />
-      <recent name="test.epam.firstTask.service" />
-      <recent name="com.epam.firstTaskTest.service" />
-      <recent name="com.epam.firstTask.exeption" />
-      <recent name="com.epam.firstTask.reader" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\Array\src\test\epam\firstTask\service" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\Array\data" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\Array\lib" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\Array" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test.epam.firstTask" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.epam.xml.validator" />
+      <recent name="by.epam.xml.handler" />
+      <recent name="by.epam.xml.builders" />
+      <recent name="by.epam.xml.factory" />
+      <recent name="by.epam.xml.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml" />
+      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml\exeption" />
+      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml\data" />
+      <recent name="C:\Users\Lenovo\Documents\GitHub\Array\src" />
+      <recent name="C:\Users\Lenovo\Documents\GitHub\Array" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.FindingTest.findSumStreamTest">
+  <component name="RunManager" selected="TestNG.SortTest">
+    <configuration name="EditTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Array" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.epam.firstTask.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test.epam.firstTask.service" />
+      <option name="MAIN_CLASS_NAME" value="test.epam.firstTask.service.EditTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EditTest.changePrimeElementToNullTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Array" />
       <useClassPathOnly />
@@ -110,34 +187,6 @@
       <option name="MAIN_CLASS_NAME" value="test.epam.firstTask.service.FindingTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindingTest.findNumberOfNegativeElementsTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Array" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.epam.firstTask.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="test.epam.firstTask.service" />
-      <option name="MAIN_CLASS_NAME" value="test.epam.firstTask.service.FindingTest" />
-      <option name="METHOD_NAME" value="findNumberOfNegativeElementsTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -226,19 +275,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.FindingTest.findNumberOfNegativeElementsTest" />
       <item itemvalue="TestNG.FindingTest" />
       <item itemvalue="TestNG.SortTest" />
       <item itemvalue="TestNG.EditTest.changePrimeElementToNullTest" />
       <item itemvalue="TestNG.FindingTest.findSumStreamTest" />
+      <item itemvalue="TestNG.EditTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FindingTest.findSumStreamTest" />
-        <item itemvalue="TestNG.EditTest.changePrimeElementToNullTest" />
         <item itemvalue="TestNG.SortTest" />
         <item itemvalue="TestNG.FindingTest" />
-        <item itemvalue="TestNG.FindingTest.findNumberOfNegativeElementsTest" />
+        <item itemvalue="TestNG.EditTest" />
+        <item itemvalue="TestNG.FindingTest.findSumStreamTest" />
+        <item itemvalue="TestNG.EditTest.changePrimeElementToNullTest" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +306,7 @@
       <workItem from="1612095779309" duration="3819000" />
       <workItem from="1612100341193" duration="16587000" />
       <workItem from="1612164869432" duration="1694000" />
+      <workItem from="1612905292868" duration="15312000" />
     </task>
     <task id="LOCAL-00001" summary="addTask2and3">
       <created>1612137106335</created>
@@ -292,6 +342,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1092" y="364" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612131969579" />
+    <state x="1245" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1612913552206">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1245" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1612913552206" />
     <state x="1236" y="428" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612121816719">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -304,6 +358,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1178" y="124" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611139507223" />
+    <state x="1170" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612914424045">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1170" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612914424045" />
     <state x="968" y="138" key="CommitChangelistDialog2" timestamp="1612137105045">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -312,46 +370,62 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1195" y="188" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1612128158334" />
-    <state width="914" height="204" key="GridCell.Tab.0.bottom" timestamp="1612135797016">
+    <state width="914" height="204" key="GridCell.Tab.0.bottom" timestamp="1612912710938">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612135797016" />
-    <state width="914" height="204" key="GridCell.Tab.0.center" timestamp="1612135797016">
+    <state width="914" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612912710938" />
+    <state width="914" height="204" key="GridCell.Tab.0.center" timestamp="1612912710938">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="204" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612135797016" />
-    <state width="914" height="204" key="GridCell.Tab.0.left" timestamp="1612135797015">
+    <state width="914" height="204" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612912710938" />
+    <state width="914" height="204" key="GridCell.Tab.0.left" timestamp="1612912710920">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="204" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612135797015" />
-    <state width="914" height="204" key="GridCell.Tab.0.right" timestamp="1612135797016">
+    <state width="914" height="204" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612912710920" />
+    <state width="914" height="204" key="GridCell.Tab.0.right" timestamp="1612912710938">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="204" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612135797016" />
+    <state width="914" height="204" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612912710938" />
     <state x="794" y="65" key="SettingsEditor" timestamp="1612128167796">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="794" y="65" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1612128167796" />
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1612164914557">
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1612905293624">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612164914557" />
-    <state x="244" y="203" width="694" height="834" key="dock-window-1" timestamp="1612133677357">
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612905293624" />
+    <state x="107" y="92" width="691" height="834" key="dock-window-1" timestamp="1612916990617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="244" y="203" width="694" height="834" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1612133677357" />
-    <state x="213" y="254" width="694" height="834" key="dock-window-2" timestamp="1612134935037">
+    <state x="107" y="92" width="691" height="834" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1612916990617" />
+    <state x="1017" y="65" width="691" height="743" key="dock-window-2" timestamp="1612913194065">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="213" y="254" width="694" height="834" key="dock-window-2/0.0.1920.1080@0.0.1920.1080" timestamp="1612134935037" />
+    <state x="1017" y="65" width="691" height="743" key="dock-window-2/0.0.1920.1080@0.0.1920.1080" timestamp="1612913194065" />
+    <state x="91" y="175" width="691" height="743" key="dock-window-3" timestamp="1612938332427">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="91" y="175" width="691" height="743" key="dock-window-3/0.0.1920.1080@0.0.1920.1080" timestamp="1612938332427" />
+    <state x="397" y="0" width="691" height="1066" key="dock-window-4" timestamp="1612915008860">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="397" y="0" width="691" height="1066" key="dock-window-4/0.0.1920.1080@0.0.1920.1080" timestamp="1612915008860" />
+    <state x="164" y="0" width="691" height="1018" key="dock-window-5" timestamp="1612916751061">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="164" y="0" width="691" height="1018" key="dock-window-5/0.0.1920.1080@0.0.1920.1080" timestamp="1612916751061" />
+    <state x="87" y="604" width="691" height="711" key="dock-window-6" timestamp="1612938332427">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="87" y="604" width="691" height="711" key="dock-window-6/0.0.1920.1080@0.0.1920.1080" timestamp="1612938332427" />
     <state x="342" y="160" key="new project wizard" timestamp="1612520244031">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="342" y="160" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1612520244031" />
-    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1612101215165">
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1612916516989">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1612101215165" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1612916516989" />
     <state x="1155" y="455" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1612164656426">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

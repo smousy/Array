@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gems xmlns="http://www.example.com/gems">
+    <gem preciousness="precious" id="a1">
+        <name>Алмаз</name>
+        <origin>Минск</origin>
+        <parameters>
+            <parameters>
+                <color>green</color>
+                <transparency>80</transparency>
+                <edges>13</edges>
+            </parameters>
+        </parameters>
+        <value>10</value>
+    </gem>
+
+    <gem preciousness="precious" id="a2">
+        <name>Рубин</name>
+        <origin>Минск</origin>
+        <parameters>
+            <parameters>
+                <color>red</color>
+                <transparency>50</transparency>
+                <edges>7</edges>
+            </parameters>
+        </parameters>
+        <value>5</value>
+    </gem>
+
+    <gem preciousness="precious" id="a3">
+        <name>Аквамарин</name>
+        <origin>Минск</origin>
+        <parameters>
+            <parameters>
+                <color>blue</color>
+                <transparency>80</transparency>
+                <edges>13</edges>
+            </parameters>
+        </parameters>
+        <value>6</value>
+    </gem>
+
+    <gem preciousness="precious" id="a4">
+        <name>Кварц</name>
+        <origin>Минск</origin>
+        <parameters>
+            <parameters>
+                <color>white</color>
+                <transparency>90</transparency>
+                <edges>7</edges>
+            </parameters>
+        </parameters>
+        <value>65</value>
+    </gem>
+
+    <gem preciousness="semiprecious" id="a5">
+        <name>Индиголит</name>
+        <origin>Минск</origin>
+        <parameters>
+            <parameters>
+                <color>white</color>
+                <transparency>80</transparency>
+                <edges>4</edges>
+            </parameters>
+        </parameters>
+        <value>8</value>
+    </gem>
+</gems>
