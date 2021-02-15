@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4494b3f3-c5bf-4d55-aa38-32196054cb26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/epam/xml/data/gem.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsDomBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsSaxBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsStaxBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/builders/GemsSaxBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/builders/GemsSaxBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/data/gems.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/data/gems.xsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/entity/Gem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/entity/Gem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/entity/ParameterGem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/entity/ParameterGem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/exeption/ParseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/exeption/ParseException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/handler/GemSaxHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/handler/GemSaxHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/handler/GemXmlTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/handler/GemXmlTag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/validator/XMLValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/validator/XMLValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/by/epam/xml/builders/GemsDomBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/by/epam/xml/builders/GemsDomBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/test/epam/xml/builders/GemsDomBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/test/epam/xml/builders/GemsDomBuilderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/test/epam/xml/builders/GemsSaxBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/test/epam/xml/builders/GemsSaxBuilderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/test/epam/xml/builders/GemsStaxBuilderTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/test/epam/xml/builders/GemsStaxBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/test/epam/xml/builders/GemsStaxBuilderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/xml/builders/GemsDomBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/xml/builders/GemsDomBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsDomBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsDomBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsSaxBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsSaxBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsStaxBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/epam/xml/builders/GemsStaxBuilderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/by/epam/xml/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/epam/xml/builders" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,43 +54,43 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam" />
+      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml\builders" />
+      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\test\epam\xml" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\Array\src\test\epam\firstTask\service" />
-      <recent name="C:\Users\Lenovo\Documents\GitHub\Array\data" />
-      <recent name="C:\Users\Lenovo\Documents\GitHub\Array\lib" />
-      <recent name="C:\Users\Lenovo\Documents\GitHub\Array" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="test.epam.firstTask" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.epam.xml.entity" />
+      <recent name="test.epam.xml.validator" />
       <recent name="by.epam.xml.validator" />
       <recent name="by.epam.xml.handler" />
       <recent name="by.epam.xml.builders" />
-      <recent name="by.epam.xml.factory" />
-      <recent name="by.epam.xml.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml\data" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\test\epam\xml\builders" />
+      <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml\data" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\test\epam\xml" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml" />
       <recent name="C:\Users\Lenovo\Documents\GitHub\JavaEpam\src\by\epam\xml\exeption" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.GemsDomBuilderTest">
-    <configuration name="EditTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GemsDomBuilderTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Array" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.epam.firstTask.service.*" />
+          <option name="PATTERN" value="test.epam.xml.builders.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="test.epam.firstTask.service" />
-      <option name="MAIN_CLASS_NAME" value="test.epam.firstTask.service.EditTest" />
+      <option name="PACKAGE_NAME" value="test.epam.xml.builders" />
+      <option name="MAIN_CLASS_NAME" value="test.epam.xml.builders.GemsDomBuilderTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -108,46 +106,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GemsDomBuilderTest.testGetMedicines" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Array" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.epam.firstTask.service.*" />
+          <option name="PATTERN" value="test.epam.xml.builders.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="test.epam.firstTask.service" />
-      <option name="MAIN_CLASS_NAME" value="test.epam.firstTask.service.FindingTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindingTest.findSumStreamTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Array" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.epam.firstTask.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="test.epam.firstTask.service" />
-      <option name="MAIN_CLASS_NAME" value="test.epam.firstTask.service.FindingTest" />
-      <option name="METHOD_NAME" value="findSumStreamTest" />
+      <option name="PACKAGE_NAME" value="test.epam.xml.builders" />
+      <option name="MAIN_CLASS_NAME" value="test.epam.xml.builders.GemsDomBuilderTest" />
+      <option name="METHOD_NAME" value="testGetMedicines" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -163,7 +134,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GemsDomBuilderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GemsSaxBuilderTest.testGetMedicines" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Array" />
       <useClassPathOnly />
       <extension name="coverage">
@@ -174,9 +145,38 @@
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="test.epam.xml.builders" />
-      <option name="MAIN_CLASS_NAME" value="test.epam.xml.builders.GemsDomBuilderTest" />
+      <option name="MAIN_CLASS_NAME" value="test.epam.xml.builders.GemsSaxBuilderTest" />
+      <option name="METHOD_NAME" value="testGetMedicines" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemsStaxBuilderTest.testGetMedicines" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Array" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.epam.xml.builders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test.epam.xml.builders" />
+      <option name="MAIN_CLASS_NAME" value="test.epam.xml.builders.GemsStaxBuilderTest" />
+      <option name="METHOD_NAME" value="testGetMedicines" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -237,19 +237,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.FindingTest" />
       <item itemvalue="TestNG.SortTest" />
-      <item itemvalue="TestNG.FindingTest.findSumStreamTest" />
-      <item itemvalue="TestNG.EditTest" />
       <item itemvalue="TestNG.GemsDomBuilderTest" />
+      <item itemvalue="TestNG.GemsDomBuilderTest.testGetMedicines" />
+      <item itemvalue="TestNG.GemsSaxBuilderTest.testGetMedicines" />
+      <item itemvalue="TestNG.GemsStaxBuilderTest.testGetMedicines" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.GemsDomBuilderTest" />
+        <item itemvalue="TestNG.GemsStaxBuilderTest.testGetMedicines" />
+        <item itemvalue="TestNG.GemsSaxBuilderTest.testGetMedicines" />
+        <item itemvalue="TestNG.GemsDomBuilderTest.testGetMedicines" />
         <item itemvalue="TestNG.SortTest" />
-        <item itemvalue="TestNG.FindingTest" />
-        <item itemvalue="TestNG.EditTest" />
-        <item itemvalue="TestNG.FindingTest.findSumStreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +269,7 @@
       <workItem from="1612100341193" duration="16587000" />
       <workItem from="1612164869432" duration="1694000" />
       <workItem from="1612905292868" duration="17039000" />
+      <workItem from="1613222973448" duration="1843000" />
     </task>
     <task id="LOCAL-00001" summary="addTask2and3">
       <created>1612137106335</created>
@@ -296,10 +297,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="791" y="195" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612132888164" />
-    <state x="1053" y="100" width="774" height="887" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1612132220155">
+    <state x="1053" y="100" width="774" height="887" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1612965825043">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1053" y="100" width="774" height="887" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612132220155" />
+    <state x="1053" y="100" width="774" height="887" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612965825043" />
     <state x="1092" y="364" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1612131969579">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -316,10 +317,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1236" y="449" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080@0.0.1920.1080" timestamp="1612096589499" />
-    <state x="1206" y="374" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1612964161554">
+    <state x="1206" y="374" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1612966049382">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1206" y="374" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612964161554" />
+    <state x="1206" y="374" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612966049382" />
     <state x="1178" y="124" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611139507223">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -336,30 +337,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1195" y="188" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1612128158334" />
-    <state width="914" height="204" key="GridCell.Tab.0.bottom" timestamp="1612964482677">
+    <state width="914" height="341" key="GridCell.Tab.0.bottom" timestamp="1612966973606">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612964482677" />
-    <state width="914" height="204" key="GridCell.Tab.0.center" timestamp="1612964482677">
+    <state width="914" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612966973606" />
+    <state width="914" height="341" key="GridCell.Tab.0.center" timestamp="1612966973606">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="204" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612964482677" />
-    <state width="914" height="204" key="GridCell.Tab.0.left" timestamp="1612964482677">
+    <state width="914" height="341" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612966973606" />
+    <state width="914" height="341" key="GridCell.Tab.0.left" timestamp="1612966973606">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="204" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612964482677" />
-    <state width="914" height="204" key="GridCell.Tab.0.right" timestamp="1612964482677">
+    <state width="914" height="341" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612966973606" />
+    <state width="914" height="341" key="GridCell.Tab.0.right" timestamp="1612966973606">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="204" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612964482677" />
+    <state width="914" height="341" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612966973606" />
     <state x="794" y="65" key="SettingsEditor" timestamp="1612128167796">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="794" y="65" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1612128167796" />
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1612905293624">
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1613222974028">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612905293624" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1613222974028" />
     <state x="107" y="92" width="691" height="834" key="dock-window-1" timestamp="1612916990617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -388,14 +389,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="159" y="0" width="698" height="1018" key="dock-window-7/0.0.1920.1080@0.0.1920.1080" timestamp="1612964464941" />
+    <state x="117" y="302" width="760" height="450" key="dock-window-8" timestamp="1612966877746">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="117" y="302" width="760" height="450" key="dock-window-8/0.0.1920.1080@0.0.1920.1080" timestamp="1612966877746" />
+    <state x="98" y="0" width="752" height="851" key="dock-window-9" timestamp="1612966650536">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="98" y="0" width="752" height="851" key="dock-window-9/0.0.1920.1080@0.0.1920.1080" timestamp="1612966650536" />
     <state x="342" y="160" key="new project wizard" timestamp="1612520244031">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="342" y="160" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1612520244031" />
-    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1612962797101">
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1613224188579">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1612962797101" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1613224188579" />
     <state x="1155" y="455" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1612164656426">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

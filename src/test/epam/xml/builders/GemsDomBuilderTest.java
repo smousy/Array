@@ -22,7 +22,7 @@ public class GemsDomBuilderTest extends Assert {
 
     @BeforeTest
     public void setUp() {
-        filename ="data/gem.xml";
+        filename ="src/by/epam/xml/data/gem.xml";
         expectedResult = new HashSet<>();
         gemsDomBuilder = new GemsDomBuilder();
         Gem gem = new Gem();
@@ -47,6 +47,6 @@ public class GemsDomBuilderTest extends Assert {
     public void testGetMedicines() throws ParseException {
         gemsDomBuilder.buildSetGems(filename);
         actualResult = gemsDomBuilder.getGems();
-        assertEquals(actualResult, expectedResult);
+        assertEquals(actualResult.toString(), expectedResult.toString());
     }
 }

@@ -63,12 +63,14 @@ public class GemsDomBuilder extends AbstractGemsBuilder {
         Gem gem = new Gem();
         if (null != gemElement) {
             ParameterGem parameters;
-            gem.setOrigin(gemElement.getAttribute("precious"));
+            gem.setPreciousness(gemElement.getAttribute("preciousness"));
             logger.log(Level.INFO, "precious " + gemElement.getAttribute("precious") + "set");
             gem.setId(gemElement.getAttribute("id"));
             logger.log(Level.INFO, "id " + gemElement.getAttribute("id") + "set");
             gem.setName(getElementTextContext(gemElement, "name"));
             logger.log(Level.INFO, "name " + getElementTextContext(gemElement, "name") + "set");
+            gem.setOrigin(getElementTextContext(gemElement, "origin"));
+            logger.log(Level.INFO, "origin " + getElementTextContext(gemElement, "origin") + "set");
             gem.setValue(getElementTextContext(gemElement, "value"));
             logger.log(Level.INFO, "value " + getElementTextContext(gemElement, "value") + "set");
 
