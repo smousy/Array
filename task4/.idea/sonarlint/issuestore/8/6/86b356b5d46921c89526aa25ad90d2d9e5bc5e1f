@@ -1,0 +1,11 @@
+
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(©Äö8¶¯‡Û€/
+r
+java:S1104"RMake logger a static final constant or non-public and provide accessors if needed.(éò¢¥ÿÿÿÿÿ8¶¯‡Û€/
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡ù±8¶¯‡Û€/
+L
+java:S1444",Make this "public static logger" field final(éò¢¥ÿÿÿÿÿ8¶¯‡Û€/
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(ëò’˜8¶¯‡Û€/
